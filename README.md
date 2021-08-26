@@ -1,2 +1,2 @@
 # Color-Picker
-created a basic color picker using react js
+Created a basic color picker using react js
